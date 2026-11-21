@@ -177,4 +177,4 @@ This repository serves as the official landing page for Aaargh. The software is 
 **Get the most recent version of Aaargh today!**
 
 ---
-**Last updated:** 2026-11-20 18:57:09 UTC
+**Last updated:** 2026-11-21 00:40:30 UTC
